@@ -1,0 +1,5 @@
+1
+doesnt_exist.txt
+2
+Wow
+-1

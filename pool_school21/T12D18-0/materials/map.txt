@@ -1,0 +1,12 @@
+typical repository structure
+
+|
+|- code-samples - some examples of code 
+|- data-samples - some examples of data for your tasks
+|- datasets - datasets for your tasks
+|- materials - folder for useful materials 
+|- misc - some files for README
+|- src - your main directory for work
+|-- README.md - your task
+|-- README_RUS.MD - your task in russian
+

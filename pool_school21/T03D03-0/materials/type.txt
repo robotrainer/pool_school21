@@ -1,0 +1,2 @@
+Data type - a set of values ​​and operations on these values ​​(IEEE Std 1320.2-1998)
+Integer, character, real.

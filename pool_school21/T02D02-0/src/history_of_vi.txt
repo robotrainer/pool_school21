@@ -1,0 +1,17 @@
+vi History
+
+The vi editor was developed starting around 1976 by Bill Joy, who was then a graduate student at the University of California at Berkeley.
+Joy later went on to help found Sun Microsystems and became its Chief Scientist.
+
+"ed" was the original Unix text editor.
+Like other early text editors, it was line oriented and used from dumb printing terminals.
+Joy first developed "ex" as an improved line editor that supported a superset of ed commands.
+He then developed vi as a "visual interface" to ex.
+That is, it allows text to be viewed on a full screen rather than only one line at a time.
+vi takes its name from this fact.
+
+vi remains very popular today in spite of the development and widespread availability of GUI (graphical user interface) mode text editors which are far more intuitive and much easier for beginners to use than text-mode text editors such as vi.
+GUI-mode text editors include gedit and Emacs, both of which have become very common on Linux and other Unixes today.
+
+
+

@@ -1,0 +1,8 @@
+x*x
+x
+sin(x)
+x*x*x
+x+x*x
+1/x
+tan(x)
+x*sin(x)

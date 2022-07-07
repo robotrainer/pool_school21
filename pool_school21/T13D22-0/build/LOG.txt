@@ -1,0 +1,4 @@
+INFO	-	Wed Aug  4 11:50:52 2021 - FILE ../src/f.txt - FILE IS NOT EMPTY
+INFO	-	Wed Aug  4 11:50:52 2021 - FILE ../src/f.txt - FILE READ
+INFO	-	Wed Aug  4 11:51:17 2021 - FILE ../src/f.txt - FILE IS NOT EMPTY
+INFO	-	Wed Aug  4 11:51:17 2021 - FILE ../src/f.txt - FILE READ

@@ -1,0 +1,10 @@
+Operations can be: unary, binary, and ternary.
+
+1. Operation of assignment (=, compound assignment: +=,-=,*=,/=,%=, &=, |=, etc...)
+2. Arithmetic operations (unary: +,-, binary: +,-,/,*,%)
+3. Comparison operations (==,!=,<,>,<=,>=)
+4. Logical operations (unary: !, binary: &&, ||)
+5. Bitwise operations (unary: ^, binary: &,|,~,<<,>>)
+
+
+

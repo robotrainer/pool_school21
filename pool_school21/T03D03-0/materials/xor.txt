@@ -1,0 +1,8 @@
+The bitwise XOR (exclusive or) performs a logical XOR function, which is equivalent to adding two bits and discarding the carry. 
+The result is zero only when we have two zeroes or two ones. XOR can be used to toggle the bits between 1 and 0. 
+Thus i = i ^ 1 when used in a loop toggles its values between 1 and 0.
+
+      11001000  
+    ^ 10111000 
+      -------- 
+    = 01110000

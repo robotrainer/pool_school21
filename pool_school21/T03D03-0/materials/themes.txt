@@ -1,0 +1,4 @@
+1. Structure of a C program
+2. Principles of structured programming
+3. Simple data types in the C language
+4. Expressions

@@ -1,0 +1,3 @@
+1. cd door_managment_files
+2. cd door_configuration
+3. vim door_1.conf
